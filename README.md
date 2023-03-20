@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 💻 An overwhelmed 😓 software developer.
+- 💻 I'm an overwhelmed 😓 software developer.
 - 🧑‍🎓 Currently learning .Net microservices and all that jazz.
 - 🧓 Partial to older .Net technologies.
-- ❤️ Also Partial to the Sherlock Holmes Method of Investigative Debugging.
+- ❤️ Also partial to the Sherlock Holmes Method of Investigative Debugging.
 - 📫 Follow my journey at [tremorscript.com](https://tremorscript.com){:target="_blank"}
 
 <!--
