@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🧑‍🎓 Currently learning .Net microservices and all that jazz.
+- 🧓 Partial to older .Net technologies.
+- ❤️ Partial to the Sherlock Holmes Method of Investigative Development.
+- 📫 Follow my journey at [tremorscript.com](https://tremorscript.com){:target="_blank"}
+
 <!--
 **tremorscript/tremorscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
