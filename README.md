@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - ❤️ Shipping software.
 - 📫 Follow my journey at [tremorscript.com](https://tremorscript.com)
 
