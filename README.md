@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍🎓 Currently learning .Net microservices and all that jazz.
-- 🧓 Partial to older .Net technologies.
-- ❤️ Also partial to the Sherlock Holmes Method of Investigative Debugging.
+- ❤️ Shipping software.
 - 📫 Follow my journey at [tremorscript.com](https://tremorscript.com)
 
 <!--
